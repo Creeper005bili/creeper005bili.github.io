@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "这里是本网站的介绍"
+title: "About This Website"
 author_profile: true
 redirect_from: 
   - /about/
