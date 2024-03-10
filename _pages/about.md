@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-本页面基于[AcademicPages模板](https://github.com/academicpages/academicpages.github.io) 和[Jekyll](jekyllrb.com)
+本页面基于[AcademicPages模板](https://github.com/academicpages/academicpages.github.io) 和[Jekyll](jekyllrb.com)。
 
 本页部署于[Github Pages](https://pages.github.com)。 
 
