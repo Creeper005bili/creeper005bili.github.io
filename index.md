@@ -11,12 +11,13 @@ layout: default
 # 友情链接
 
 > [我们的MC服务器群聊](https://qm.qq.com/q/NEL99RRFW8)
+>
 > [Qrasa的小站](https://qrasa.cn)
 
 # 联系我
 
-* [我的B站主页](https://space.bilibili.com/610810017)
-* [我的Github主页](https://github.com/creeper005bili)
-* ~~[我的微信（暂时弃用）](../images/wechat.png)~~
-* [我的QQ](../images/qq.png)
-* [点此向我发送邮件](mailto:creeper005_bili@outlook.com)
+* <a href="https://space.bilibili.com/610810017" target="_blank">我的B站主页</a>
+* <a href="https://github.com/creeper005bili" target="_blank">我的Github主页</a>
+* <a href="../images/wechat.png" target="_blank">我的微信</a>
+* <a href="../images/qq.png" target="_blank">我的QQ</a>
+* <a href="mailto:creeper005_bili@outlook.com" target="_blank">点此向我发送邮件</a>
