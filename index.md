@@ -8,13 +8,13 @@ layout: default
 
 **欢迎来到此页面！**
 
-# 友情链接
+## 友情链接
 
 > [我们的MC服务器群聊](https://qm.qq.com/q/NEL99RRFW8)
 >
 > [Qrasa的小站](https://qrasa.cn)
 
-# 联系我
+### 联系我
 
 * <a href="https://space.bilibili.com/610810017" target="_blank">我的B站主页</a>
 * <a href="https://github.com/creeper005bili" target="_blank">我的Github主页</a>
