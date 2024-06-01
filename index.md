@@ -10,9 +10,9 @@ layout: default
 
 ## 友情链接
 
-> [我们的MC服务器群聊](https://qm.qq.com/q/NEL99RRFW8)
+> <a href="https://qm.qq.com/q/NEL99RRFW8" target="_blank">我们的MC服务器群聊</a>
 >
-> [Qrasa的小站](https://qrasa.cn)
+> <a href="https://qrasa.cn" target="_blank">Qrasa的小站</a>
 
 ### 联系我
 
