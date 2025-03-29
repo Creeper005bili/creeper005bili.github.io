@@ -8,7 +8,7 @@
     <link href="/2025/03/19/unlock-pd1901/"/>
     <url>/2025/03/19/unlock-pd1901/</url>
     
-    <content type="html"><![CDATA[<h1 id="解锁方式"><a href="#解锁方式" class="headerlink" title="解锁方式"></a>解锁方式</h1><h6 id="方法很简单，就是花钱。"><a href="#方法很简单，就是花钱。" class="headerlink" title="方法很简单，就是花钱。"></a><del>方法很简单，就是花钱。</del></h6><p>首先确保你有一根数据线，<strong>最好是原厂的micro-b线材</strong>，然后去咸鱼租一个UnlockTool回来，选择机型，Preloader端口解锁。</p><p>解锁之后并不会清除数据，开机会有白字提示（Orange State balabala</p><h1 id="折腾"><a href="#折腾" class="headerlink" title="折腾"></a>折腾</h1><p>酷安有适用的twrp，当然你也可以自己移植一个。<strong>刷入magisk是别想了。</strong></p><p><strong>vivo 4.9全系内核反su，而官方支持安卓9不能使用suu，所有gsi和海外包未能刷入。</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="解锁方式"><a href="#解锁方式" class="headerlink" title="解锁方式"></a>解锁方式</h1><p><del>方法很简单，就是花钱。</del></p><p>首先确保你有一根数据线，<strong>最好是原厂的micro-b线材</strong>，然后去咸鱼租一个UnlockTool回来，选择机型，Preloader端口解锁。</p><p>解锁之后并不会清除数据，开机会有白字提示（Orange State balabala</p><h1 id="折腾"><a href="#折腾" class="headerlink" title="折腾"></a>折腾</h1><p>酷安有适用的twrp，当然你也可以自己移植一个。<strong>刷入magisk是别想了。</strong></p><p>目前可以宽容selinux，但是会解密失败。</p><p><em>vivo 4.9全系内核反su，而官方支持安卓9不能使用suu，所有gsi和海外包未能刷入。</em></p>]]></content>
     
     
     
