@@ -6,7 +6,7 @@
   <link href="https://creeper005bili.github.io/atom.xml" rel="self"/>
   
   <link href="https://creeper005bili.github.io/"/>
-  <updated>2025-03-29T03:53:51.090Z</updated>
+  <updated>2025-03-29T05:36:29.759Z</updated>
   <id>https://creeper005bili.github.io/</id>
   
   <author>
@@ -17,18 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何美化班级希沃？</title>
+    <link href="https://creeper005bili.github.io/2025/03/29/seewo-meihua/"/>
+    <id>https://creeper005bili.github.io/2025/03/29/seewo-meihua/</id>
+    <published>2025-03-29T04:20:54.000Z</published>
+    <updated>2025-03-29T05:36:29.759Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>各班级的希沃配置及系统版本都有差异，仅供参考！</strong></p><p>演示机：SEEWO BV86EV <strong>Windows 11 22H2</strong></p></blockquote><h2 id="提示"><a href="#提示" class="headerlink" title="提示"></a>提示</h2><p>请确保你的希沃一体机<strong>已关闭</strong>冰点还原！</p><p><del>小心功亏一篑</del></p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>对于各班的电教委来说，拥有一个<del>独一无二</del>的希沃一定是他们梦寐以求的事情。</p><p>但是我们应该怎么让自己班级的希沃变得<strong>美观而又实用</strong>呢？</p><p><del>我：请看VCR</del></p><h2 id="电子课表"><a href="#电子课表" class="headerlink" title="电子课表"></a>电子课表</h2><p>主流的电子课表有两种：<strong>ClassIsland</strong>和<strong>Class Widgets</strong>。</p><p><img src="https://classisland.tech/assets/themes-BVW8WQbf.png" alt="ClassIsland"></p><blockquote><p>官网：<a href="https://classisland.tech/">https://classisland.tech/</a></p><p>主要特点：<strong>简约</strong>、<strong>直观</strong>、<del>置顶显示也不会打扰上课，不会被老师逮住</del></p></blockquote><p><img src="https://classwidgets.rinlit.cn/assets/intro/theme&plugin_1.png" alt="Class Widgets"></p><blockquote><p>官网：<a href="https://classwidgets.rinlit.cn/">https://classwidgets.rinlit.cn/</a></p><p><del>目前我在用</del><br>吸引我的主要是<strong>主题</strong>和<strong>设计语言</strong><br>缺点就是在86寸大屏上需要使用<strong>小尺寸</strong>，且上课时需要收起<del>（太占地方了</del></p></blockquote><h2 id="干掉弹窗小广告！"><a href="#干掉弹窗小广告！" class="headerlink" title="干掉弹窗小广告！"></a>干掉弹窗小广告！</h2><p>希沃用的是360养蛊卫士？不要怕！让火绒来救你！</p><p><img src="/img/huorong.png" alt="弹窗拦截"></p><p>赶快卸载你的360，转头扑向<a href="https://huorong.cn/">火绒</a>的怀抱！（</p><h2 id="远控"><a href="#远控" class="headerlink" title="远控"></a>远控</h2><p>想半夜偷偷玩希沃？没问题！</p><p>我这里选择的是<a href="https://todesk.com/">ToDesk</a>，当然你也可以使用向日葵等其他远控软件</p><h2 id="开机动画"><a href="#开机动画" class="headerlink" title="开机动画"></a>开机动画</h2><p><strong>众所周知</strong>，希沃由安卓和OPS组成，而安卓端一般是USERDEBUG系统，这就为我们提供了条件。</p><p>而我们又知道，安卓的开机动画是一个ZIP文件，希沃又提供官方替换方法：</p><p><strong>首先需要进入工厂模式。</strong></p><p>不同版本的进入工厂模式方式不同，以具体机型为准。</p><blockquote><p>外接<strong>键盘&#x2F;遥控器</strong>输入<strong>1379</strong>四个数字，或是遥控器的其他按键组合（未知<br><strong>新机型</strong>长按电源键诊断模式替换，具体方法：<strong>关机状态先按一下开机键，只要开机第一屏希沃logo出来了就长按，直到出现windows登录就会自动跳转诊断模式。只要跳转了就可以松开开机键。（如果没有自动跳转就关机再试一次，跳转之前要一直摁着不能断）</strong><br><strong>部分老机</strong>需要进入安卓彩蛋后，连点版本号才能进（或连点内核版本<br><a href="https://blog.csdn.net/JaniceZhou37/article/details/122867290">制作开机动画方法</a></p></blockquote><p>在准备好bootanimation.zip后，将其放进U盘的根目录中。</p><p>进入工厂模式-&gt;点击<strong>Android设置</strong>-&gt;替换开机logo及动画</p><p>点击之后会自动查找zip文件并替换。成功后可重启试验。</p><h2 id="系统升级"><a href="#系统升级" class="headerlink" title="系统升级"></a>系统升级</h2><p>大部分希沃用的都是<strong>Windows 10</strong><del>（不会吧不会还有人用Win7吧？</del></p><p>我们可以通过强制安装的方式升级win11（22h2可用，即删除\Sources\appraiserres.dll）</p><p>当然你也可以选择Ubuntu或者macOS，小心被打就是<del>（逃</del></p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">本文遵从MIT协议，转载时请注明原作者<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;各班级的希沃配置及系统版本都有差异，仅供参考！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;演示机：SEEWO BV86EV &lt;strong&gt;Windows 11 22H2&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>关于VIVO Y3的Bootloader解锁方案及刷入镜像方法</title>
     <link href="https://creeper005bili.github.io/2025/03/19/unlock-pd1901/"/>
     <id>https://creeper005bili.github.io/2025/03/19/unlock-pd1901/</id>
     <published>2025-03-19T12:44:23.000Z</published>
-    <updated>2025-03-29T03:53:51.090Z</updated>
+    <updated>2025-03-29T04:46:42.642Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="解锁方式"><a href="#解锁方式" class="headerlink" title="解锁方式"></a>解锁方式</h1><p><del>方法很简单，就是花钱。</del></p><p>首先确保你有一根数据线，<strong>最好是原厂的micro-b线材</strong>，然后去咸鱼租一个UnlockTool回来，选择机型，Preloader端口解锁。</p><p>解锁之后并不会清除数据，开机会有白字提示（Orange State balabala</p><h1 id="折腾"><a href="#折腾" class="headerlink" title="折腾"></a>折腾</h1><p>酷安有适用的twrp，当然你也可以自己移植一个。<strong>刷入magisk是别想了。</strong></p><p>目前可以宽容selinux，但是会解密失败。</p><p><em>vivo 4.9全系内核反su，而官方支持安卓9不能使用suu，所有gsi和海外包未能刷入。</em></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="解锁方式"><a href="#解锁方式" class="headerlink" title="解锁方式"></a>解锁方式</h2><p><del>方法很简单，就是花钱。</del></p><p>首先确保你有一根数据线，<strong>最好是原厂的micro-b线材</strong>，然后去咸鱼租一个UnlockTool回来，选择机型，Preloader端口解锁。</p><p>解锁之后并不会清除数据，开机会有白字提示（Orange State balabala</p><h2 id="折腾"><a href="#折腾" class="headerlink" title="折腾"></a>折腾</h2><p>酷安有适用的twrp，当然你也可以自己移植一个。<strong>刷入magisk是别想了。</strong></p><p>目前可以宽容selinux，但是会解密失败。</p><p><em>vivo 4.9全系内核反su，而官方支持安卓9不能使用suu，所有gsi和海外包未能刷入。</em></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;解锁方式&quot;&gt;&lt;a href=&quot;#解锁方式&quot; class=&quot;headerlink&quot; title=&quot;解锁方式&quot;&gt;&lt;/a&gt;解锁方式&lt;/h1&gt;&lt;p&gt;&lt;del&gt;方法很简单，就是花钱。&lt;/del&gt;&lt;/p&gt;
+    <summary type="html">&lt;h2 id=&quot;解锁方式&quot;&gt;&lt;a href=&quot;#解锁方式&quot; class=&quot;headerlink&quot; title=&quot;解锁方式&quot;&gt;&lt;/a&gt;解锁方式&lt;/h2&gt;&lt;p&gt;&lt;del&gt;方法很简单，就是花钱。&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;首先确保你有一根数据线，&lt;strong&gt;最好是原厂的micro-</summary>
       
     
