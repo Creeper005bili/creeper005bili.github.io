@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Creeper005の小站</title>
+    <link>https://creeper005bili.github.io/</link>
+    
+    <image>
+      <url>https://creeper005bili.github.io/img/friends/Barry-Flynn.jpg</url>
+      <title>Creeper005の小站</title>
+      <link>https://creeper005bili.github.io/</link>
+    </image>
+    
+    <atom:link href="https://creeper005bili.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Creeper005の小站</description>
+    <pubDate>Sat, 29 Mar 2025 05:44:07 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何美化班级希沃？</title>
+      <link>https://creeper005bili.github.io/2025/03/29/seewo-meihua/</link>
+      <guid>https://creeper005bili.github.io/2025/03/29/seewo-meihua/</guid>
+      <pubDate>Sat, 29 Mar 2025 04:20:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;各班级的希沃配置及系统版本都有差异，仅供参考！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;演示机：SEEWO BV86EV &lt;strong&gt;Windows 11 22H2&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://creeper005bili.github.io/2025/03/29/seewo-meihua/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于VIVO Y3的Bootloader解锁方案及刷入镜像方法</title>
+      <link>https://creeper005bili.github.io/2025/03/19/unlock-pd1901/</link>
+      <guid>https://creeper005bili.github.io/2025/03/19/unlock-pd1901/</guid>
+      <pubDate>Wed, 19 Mar 2025 12:44:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;解锁方式&quot;&gt;&lt;a href=&quot;#解锁方式&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://creeper005bili.github.io/2025/03/19/unlock-pd1901/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
