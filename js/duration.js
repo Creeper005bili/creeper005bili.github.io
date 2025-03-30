@@ -1,7 +1,7 @@
 !(function() {
     /** 计时起始时间，自行修改 **/
-    var start = new Date("2023/01/22 00:00:00");
-  
+    var start = new Date("2024/08/14 18:00:00");
+
     function update() {
       var now = new Date();
       now.setTime(now.getTime()+250);
@@ -25,7 +25,7 @@
       document.getElementById("timeDate").innerHTML = "本站在吉列的豆蒸下摸爬滚打了&nbsp"+dnum+"&nbsp天";
       document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
     }
-  
+
     update();
     setInterval(update, 1000);
   })();
