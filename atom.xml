@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Creeper005の小站</title>
+  <title>LumIyricLuo&#39;s Blog</title>
   <icon>https://creeper005bili.github.io/img/avatar.png</icon>
-  <subtitle>坐牢初中牲的普通小站</subtitle>
+  <subtitle>一个树洞，留着发牢骚的地方。</subtitle>
   <link href="https://creeper005bili.github.io/atom.xml" rel="self"/>
   
   <link href="https://creeper005bili.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://creeper005bili.github.io/</id>
   
   <author>
-    <name>Creeper005</name>
+    <name>石洛凌</name>
     
   </author>
   
